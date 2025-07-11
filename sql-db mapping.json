@@ -1,0 +1,7 @@
+[
+  { "file": "departments.csv",   "table": "dbo.departments" },
+  { "file": "encounters.csv",    "table": "dbo.encounters" },
+  { "file": "patients.csv",      "table": "dbo.patients" },
+  { "file": "providers.csv",     "table": "dbo.providers" },
+  { "file": "transactions.csv",  "table": "dbo.transactions" }
+]
